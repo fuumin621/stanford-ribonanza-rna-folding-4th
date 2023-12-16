@@ -17,6 +17,7 @@ docker exec -it kaggle bash
     cd src/exp112 && sh train.sh
     cd src/exp300 && sh train.sh
     cd src/exp302 && sh train.sh
+    cd src/exp312 && sh train.sh
     cd src/exp317 && sh train.sh
     ```
 
